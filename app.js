@@ -1,6 +1,6 @@
 let titulo = 'h1';
 let paragrafo = 'p';
-let numeroFinal = 10;
+let numeroFinal = 100;
 let tentativas = 0;
 let valoresSorteados = [];
 let numerovalido = false;
